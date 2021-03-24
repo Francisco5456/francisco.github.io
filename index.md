@@ -20,6 +20,9 @@ Based on the analysis and findings, creating interactive dashboards and data sto
 [Amazing Property System](/pdf/sample_presentation.pdf)
 <img src="images/Capstone Project 2.jpg?raw=true"/>
 
+#### What is this project about?
+This project was to create a Singapore property system database which captures all the past sales data of HDB flats and condominiums; all property agencies and agents data and all HDB flats and condominiums available for sales.  Once all the data has been prepared in SQL, import the data into Excel directly from SQL. Create required pivot tables and charts to create reports and dashboards using MS Excel.  
+
 ---
 [Ageing Population](http://example.com/)
 <img src="images/Capstone Project 3.jpg?raw=true"/>
