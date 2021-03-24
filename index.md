@@ -23,13 +23,11 @@ This project is about .....
 <img src="images/Capstone Project 3.jpg?raw=true"/>
 
 ---
-[Project 4](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 
 ### Machine Learning
 
 - [Date-A-Scientist](http://example.com/)
+<img src="images/Capstone Project 4.jpg?raw=true"/>
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
