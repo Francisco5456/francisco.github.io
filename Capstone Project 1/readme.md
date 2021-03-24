@@ -10,11 +10,11 @@ Story building in relation to business needs
 <br>
 Data Preparation
 <br>
-  <tab>ETL
+  <tab>-- ETL
 <br>
-  Data Cleaning
+  -- Data Cleaning
 <br>
-  Data Transformation
+  -- Data Transformation
 <br>
 Exploratory Data Analysis using Excel
 <br>
