@@ -12,7 +12,7 @@
 #### What is this project about?
 This project is about .....
 
-
+[Click to access Codes](https://github.com/Francisco5456/franciscochua.github.io/tree/master/Capstone%20Project%201)
 
 ---
 [Amazing Property System](/pdf/sample_presentation.pdf)
