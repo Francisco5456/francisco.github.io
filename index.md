@@ -4,7 +4,7 @@
 
 ### Data Visualization 
 
-[Francisco Hotel](/Capstone Project 1/cp1.pdf)
+[Francisco Hotel](/Capstone Project 1/Capstone Project 1 -- Data Visualization -- 24 Sep 2020.pdf)
 <img src="images/Capstone Project 1.jpg?raw=true"/>
 
 [comment]: <> (Testcomment)
