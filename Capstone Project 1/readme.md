@@ -1,6 +1,6 @@
 This is the readme file for Capstone Project 1.
 
-The main aim of this capstone project is to exhibit the following stages of the data lifecycle through the use of MS Excel:
+The main aim of this capstone project is to exhibit the following five stages of the data lifecycle through the use of MS Excel:
 
 Data collection from various sources
 <br>
