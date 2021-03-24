@@ -2,24 +2,27 @@
 
 ---
 
-### Category Name 1 
+### Data Visualization 
 
 [Francisco Hotel](/sample_page)
 <img src="images/Capstone Project 1.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Amazing Property System](/pdf/sample_presentation.pdf)
+<img src="images/Capstone Project 2.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Ageing Population](http://example.com/)
+<img src="images/Capstone Project 3.jpg?raw=true"/>
 
 ---
+[Project 4](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+### Machine Learning
+
+- [Date-A-Scientist](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
