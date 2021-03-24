@@ -10,9 +10,9 @@
 [comment]: <> (Testcomment)
 
 #### What is this project about?
-This project is about creating interactive dashboards and data story telling using MS Excel.
+This project was about a hotel business.  It was to collect current relevant and related data for making business decision, especially during these period of Covid-19.
 <br>
-
+Based on the analysis and findings, creating interactive dashboards and data story telling using MS Excel.
 
 [Click to access Codes](https://github.com/Francisco5456/franciscochua.github.io/tree/master/Capstone%20Project%201)
 
