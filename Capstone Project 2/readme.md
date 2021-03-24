@@ -9,9 +9,11 @@ Creating tables and Loading data into SQL databases
 <br>
 Data Preparation
 <br>
--- Data Cleaning
--- Data Transformation
 -- ETL
+<br>
+-- Data Cleaning
+<br>
+-- Data Transformation
 <br>
 Data Analysis using SQL
 <br>
