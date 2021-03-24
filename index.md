@@ -10,7 +10,9 @@
 [comment]: <> (Testcomment)
 
 #### What is this project about?
-This project is about .....
+This project is about creating interactive dashboards and data story telling using MS Excel.
+<br>
+
 
 [Click to access Codes](https://github.com/Francisco5456/franciscochua.github.io/tree/master/Capstone%20Project%201)
 
