@@ -9,7 +9,6 @@ Business needs gathering
 Story building in relation to business needs
 <br>
 Data Preparation
-<br>
   <ul> <li>ETL
   <li> Data Cleaning
 <li>Data Transformation </ul>
