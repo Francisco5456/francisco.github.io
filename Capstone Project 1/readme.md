@@ -13,9 +13,8 @@ Data Preparation
   <ul> <li>ETL
   <li> Data Cleaning
 <li>Data Transformation </ul>
-<br>
 Exploratory Data Analysis using Excel
-<br>
+<br><br>
 Creating Interactive Dashboard and Visualization using Excel Dashboards
 <br>
 Communicating insights derived based on decided business needs
