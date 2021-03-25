@@ -12,7 +12,7 @@ Data Preparation
 <br>
   <ul> <li>ETL
   <li> Data Cleaning
-<li>Data Transformation
+<li>Data Transformation </ul>
 <br>
 Exploratory Data Analysis using Excel
 <br>
