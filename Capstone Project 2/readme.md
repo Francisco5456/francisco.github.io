@@ -11,7 +11,7 @@ Data Preparation
 <ul>
   <li> ETL </li>
   <li> Data Cleaning </li>
-  <li> Data Transformation </li>
+  <li> Data Transformation </li> </ul>
 <br>
 Data Analysis using SQL
 <br><br>
