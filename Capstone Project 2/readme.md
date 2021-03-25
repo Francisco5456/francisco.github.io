@@ -8,15 +8,13 @@ Data collection from various sources
 Creating tables and Loading data into SQL databases
 <br>
 Data Preparation
-<br>
--- ETL
-<br>
--- Data Cleaning
-<br>
--- Data Transformation
+<ul>
+  <li> ETL </li>
+  <li> Data Cleaning </li>
+  <li> Data Transformation </li>
 <br>
 Data Analysis using SQL
-<br>
+<br><br>
 Creating Interactive Dashboard and Visualization using Excel Dashboards
 <br>
 Communicating insights derived
